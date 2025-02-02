@@ -54,7 +54,8 @@ This repository showcases an interactive **HR Analytics Dashboard** created usin
 
 ### **Screenshots**
 #### Attrition Analysis Overview  
-*(Add a static image of your dashboard here for visual preview)*  
+*![image](https://github.com/user-attachments/assets/0a8c2c69-ef9c-4db8-846e-1d25ee9b4ac5)
+*  
 `![Attrition Analysis Dashboard](./Screenshots/attrition_analysis.png)`
 
 #### Employee Demographics Breakdown  
